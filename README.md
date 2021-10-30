@@ -1,12 +1,11 @@
 # null Guard
 ###### Beklenen güncelleme geldi.
-###### Bot İşlerine geri dönüyorum her hangi bir sorun veya soruda `null#1002`
 ###### Ayarlar.json dan sunucu ismi resmi bannerini kafanıza göre değiştirebilirsiniz.
 ###### Database ve guard botlarını ayırdım ve biraz değiştirim daha rahat ve daha hızlı çalışması için.
 ###### versiyon v0.0.2
 
 # 🌟 Star
-###### 30 35 Starda paylaşmayı düşünüyorum.
+###### Gerek kalmadı direk attım.
 
 # Görsel
 ![Adsaız](https://user-images.githubusercontent.com/60463845/139395890-af01070b-11de-4311-b797-adf48bb82561.png)
