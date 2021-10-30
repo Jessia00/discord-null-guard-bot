@@ -1,0 +1,25 @@
+{
+    
+    
+    "botOwner":"311625016276025364",
+    "botPrefix":"",
+    "botToken":"",
+    "guildID":"",
+    "sesamk":"",
+    "sunucu":" #NULL",
+    "sunucubanner":"https://i.hizliresim.com/e9rz3ge.png",
+    "sunucuresim":"https://i.hizliresim.com/cb7rnjb.png",
+    "logChannelID":"",
+    "channelGuard":true,
+    "roleGuard":true,
+    "serverGuard":true,
+    "botGuard":true,
+    "banGuard":true,
+    "kickGuard":true,
+    "whitelist":[],
+    "boosterRole":"",
+    "jailRole":""
+
+
+
+}
